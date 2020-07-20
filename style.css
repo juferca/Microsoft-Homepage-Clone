@@ -288,6 +288,11 @@ ul {
     display: none;
   }
 
+  .logo {
+    position: relative;
+    margin: auto;
+  }
+
   .main-nav ul.main-menu {
     display: block;
     position: absolute;
@@ -299,7 +304,7 @@ ul {
     border-bottom: #ccc 1px solid;
     opacity: 0.9;
     padding: 60px 30px 30px;
-    transform: translateX(-700px);
+    transform: translateX(-750px);
     transition: transform 0.5s ease-in-out;
   }
 
