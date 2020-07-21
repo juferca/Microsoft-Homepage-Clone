@@ -346,10 +346,12 @@ ul {
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .showcase-content h2,
   .school .content h2 {
     margin-bottom: 20px;
   }
 
+  .showcase-content p,
   .school .content p {
     display: none;
   }
